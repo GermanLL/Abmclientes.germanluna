@@ -1,20 +1,16 @@
 # 👥 ABM Customers - Management System
 
 ## 🚀 Project Overview
-ABM Customers is a specialized web application designed for efficient client database management. This project demonstrates the implementation of core **CRUD** (Create, Read, Update, Delete) operations, allowing users to register, search, update, and remove client information through a clean and responsive administrative interface.
+ABM Clientes is a user-centric design and development tool for data management. The project focuses on client-side logic and data manipulation through dynamic forms, offering a visual, fast, and lightweight administrative tool that requires no complex server configurations.
 
 ## 🛠 Tech Stack
 - **Frontend:** HTML5, CSS3, JavaScript , Bootstrap 5
 - **Backend:** PHP
-- **Database:** MySQL
 - **Hosting:** InfinityFree
-- **Tools:** PDO for secure database interactions 
 
 ## ⚙️ Features
 - **Client Registration:** Form-driven data entry for new customers.
-- **Data Persistence:** Full integration with a MySQL database.
-- **Real-time Management:** Ability to modify existing records and remove obsolete data.
-- **Search & Filter:** Easily locate specific clients within the database.
+- **Visual CRUD interface:** Complete simulation of the Create, Read, Update and Delete workflow, ideal for rapid prototyping..
 - **Responsive UI:** Built with Bootstrap to ensure usability across all devices.
 
 ## ▶️ Getting Started
