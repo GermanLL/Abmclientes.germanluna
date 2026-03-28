@@ -23,27 +23,17 @@ ABM Customers is a specialized web application designed for efficient client dat
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/GermanLL/Abmclientes.germanluna.git](https://github.com/GermanLL/Abmclientes.germanluna.git)
+   git clone https://github.com/GermanLL/Abmclientes.germanluna.git
 
 2. **Local Server Setup:**
 
-- Move the project folder to your local server directory (e.g., C:/xampp/htdocs/).
+- Move the project folder to your local server directory ( C:/xampp/htdocs/). The folder name ABMclientes
 
-- Start the Apache and MySQL modules.
+- Start the Apache.
 
-3. **Database Import:**
+3. **Launch:**
 
--Open phpMyAdmin and create a database named abm_clientes.
-
--Import the .sql file found in the project's root folder.
-
-4. **Configuration:**
-
-- Check the database connection file to ensure the credentials match your local setup.
-
-5. **Launch:**
-
-- Open your browser and visit http://localhost/Abmclientes.germanluna
+- Open your browser and visit http://localhost/ABMclientes/index.php
 
 ## 🌍 Live Demo
 - Check the live project here: https://abmclientes.infinityfreeapp.com/
