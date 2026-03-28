@@ -27,7 +27,7 @@ ABM Customers is a specialized web application designed for efficient client dat
 
 2. **Local Server Setup:**
 
-- Move the project folder to your local server directory ( C:/xampp/htdocs/). The folder name ABMclientes
+- Move the project folder to your local server directory ( C:/xampp/htdocs/). We will call the folder ABMclientes
 
 - Start the Apache.
 
